@@ -1,6 +1,7 @@
 # budgetrack
+A budget tracker that keeps hold of your weekly expenditure
 
-A new Flutter project.
+
 
 ## Getting Started
 
